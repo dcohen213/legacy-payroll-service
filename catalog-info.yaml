@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: legacy-payroll-service
+  annotations:
+    github.com/project-slug: dcohen213/legacy-payroll-service
+spec:
+  type: other
+  lifecycle: unknown
+  owner: rhdh-team
